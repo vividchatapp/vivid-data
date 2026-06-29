@@ -8,3 +8,9 @@ gpt-oss:20b
 minimax-m2.1
 minimax-m2.5
 ministral-3:14b
+ministral-3:3b
+ministral-3:8b
+nemotron-3-nano:30b
+nemotron-3-super
+nemotron-3-ultra
+qwen3-coder-next
